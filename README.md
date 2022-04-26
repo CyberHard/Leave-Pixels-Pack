@@ -4,7 +4,7 @@
 <p align="center">README also available in:</p>
 <div align="center">
   
-  <a href="https://github.com/Podrum/PodrumLegacy/blob/main/languages/README_RU.md">Русский🇷🇺</a>
+  <a href="https://github.com/CyberHard/Leave-Pixels-Pack/blob/main/README.md">Русский🇷🇺</a>
   <a href="https://github.com/Podrum/PodrumLegacy/blob/main/languages/README_CH.md">中文🇨🇳</a>
   
  </div>
