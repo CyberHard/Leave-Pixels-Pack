@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" style="border-radius:10px;" height="256" src="https://cdn.discordapp.com/attachments/878572209164148786/965194770592968714/IMG_20220416_172427.jpg">
+  <img width="256" style="border-radius:10px;" height="256" src="https://cdn.discordapp.com/attachments/935585611128119326/969193665048248330/Untitled-1.png">
 <hr/>
 <p align="center">README also available in:</p>
 <div align="center">
